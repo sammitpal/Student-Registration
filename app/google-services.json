@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "562737511909",
+    "firebase_url": "https://student-registration-a52f3.firebaseio.com",
+    "project_id": "student-registration-a52f3",
+    "storage_bucket": "student-registration-a52f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562737511909:android:08c0bc541c4de491d6830c",
+        "android_client_info": {
+          "package_name": "com.example.student_registration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562737511909-htfh53k4is8oamc76eq1cjqudj7t9k0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.student_registration",
+            "certificate_hash": "41cb7bd71ed4f841813935098e6c64e3d11d30be"
+          }
+        },
+        {
+          "client_id": "562737511909-q8qq0hdu07d3ve0q40l1lbnquss0sjuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkY0BCwQMb173pKizIS4SRvPOqA6fK5LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562737511909-q8qq0hdu07d3ve0q40l1lbnquss0sjuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
